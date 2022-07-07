@@ -1,1 +1,1 @@
-# tinkoff_game_backend
+# tinkoff_game
